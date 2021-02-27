@@ -24,11 +24,12 @@ attriburtes consist of name and a value.
 ### there are characters called escape characters they are build in characters in html.
 for a list of these characters [characters](https://www.w3schools.com/html/html_symbols.asp)
 
-### Html layout:
-
+### HTML Layout:
+```
+{
 <Body>
     <header>
-        <h1>content</h1>
+        <h1> content </h1>
         <nav>
             content
         </nav>
@@ -37,6 +38,8 @@ for a list of these characters [characters](https://www.w3schools.com/html/html_
         content
     </footer>
 </body> 
+}
+```
 
 ## Process and Design:
 <

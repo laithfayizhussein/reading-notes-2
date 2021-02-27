@@ -3,7 +3,7 @@
  Welcome to Reading Notes Here you can find a summary about HTML, CSS, JS.
 
 ## Writer:
- Bayan AL-khatib, a Chemical Engineer in her way to become a software Developer.
+ Bayan AL-khatib, a Chemical Engineer in her way to become a Software Developer.
 
 ## Table of Contents
 
