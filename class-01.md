@@ -42,7 +42,7 @@ for a list of these characters [characters](https://www.w3schools.com/html/html_
 ```
 
 ## Process and Design:
-<
+
  ### Who is the Site For?
  Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to
 understand who your target audience is. Why people visiting your website: Now that you know who your visitors are, you need to consider why they are coming. While some people will simply chance across your
