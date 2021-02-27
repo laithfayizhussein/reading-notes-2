@@ -5,7 +5,7 @@ we code using Html using elements to describe webpage structures.
 these elements consist of opening and closing tags and contains content batween them.
 you can tell more about elements by using attributes.
 attriburtes consist of name and a value.
-## main elements of html code are: 
+## Main Elements of HTML Code are: 
 * head 
 * body 
 
@@ -24,7 +24,7 @@ attriburtes consist of name and a value.
 ### there are characters called escape characters they are build in characters in html.
 for a list of these characters [characters](https://www.w3schools.com/html/html_symbols.asp)
 
-### HTML Layout:
+## HTML Layout:
 ```
 {
 <Body>
