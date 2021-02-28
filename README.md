@@ -9,8 +9,8 @@
 
 | # | Classes |
 |---|---------|
-|1 | [Class-01](https://bayan-alkhatib.github.io/code-201-reading-notes/class-01) |
-|2|    |
+|1 | [Class-01](https://bayan-alkhatib.github.io/code-201-reading-notes/class-01)|
+|2| [Class-02](https://bayan-alkhatib.github.io/code-201-reading-notes/class-02)  |
 |3|   |
 |4|   |
 |6|  | 
