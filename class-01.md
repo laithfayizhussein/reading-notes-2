@@ -41,7 +41,11 @@ for a list of these characters [characters](https://www.w3schools.com/html/html_
 }
 ```
 
+<<<<<<< HEAD
 ## Process and Design:"Quoted"
+=======
+## Process and Design:
+>>>>>>> b3d040ae2f7aad02156687744756b9ed4d054758
 
  ### Who is the Site For?
  Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to
