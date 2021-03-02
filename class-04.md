@@ -1,21 +1,21 @@
 # Java Script
-Function
+#### Function
 : consists of series of statements compined together to perform a specific task.
- ### main advantage of functions is reusage and repetation avoidance.
- ### Declare a function: 
+ #### main advantage of functions is reusage and repetation avoidance.
+ #### Declare a function: 
  ` function function_name(parameters){
  statments}`
- ### Calling a function:
+ #### Calling a function:
  function_name (parameter);
- ### Argumnets vs prameters:
+ #### Argumnets vs prameters:
  Arguments: variables that has been declared, or values
  prameters: variables that hasn't been declared yet.
- ### functios can return single values or multiple values using arrays.
- ### function expression: function that is puted in place of expression and treated as expresion.
- ### local variables : variables declared inside a function global variables: variables declared out-side a function.
- ### global variables use memory in the browser more than the local variables.
- ### global variables: have naming conflicts. 
- ### local variables: there is no conflict between them.
+ #### functios can return single values or multiple values using arrays.
+ #### function expression: function that is puted in place of expression and treated as expresion.
+ #### local variables : variables declared inside a function global variables: variables declared out-side a function.
+ #### global variables use memory in the browser more than the local variables.
+ #### global variables: have naming conflicts. 
+ #### local variables: there is no conflict between them.
 
 # CSS Layout:
 - If one block-level element sits inside another
