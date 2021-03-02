@@ -1,12 +1,10 @@
 # Java Script
-#### Function
-: consists of series of statements compined together to perform a specific task.
+#### Function: consists of series of statements compined together to perform a specific task.
  #### main advantage of functions is reusage and repetation avoidance.
  #### Declare a function: 
- ` function function_name(parameters){
- statments}`
+ ` function function_name(parameters){statments}`
  #### Calling a function:
- function_name (parameter);
+ `function_name (parameter);`
  #### Argumnets vs prameters:
  Arguments: variables that has been declared, or values
  prameters: variables that hasn't been declared yet.
