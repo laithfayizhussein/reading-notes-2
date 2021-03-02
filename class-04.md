@@ -40,6 +40,16 @@ known as the containing or parent element.
 the href attribute will contain the address for the page followed by the symbol, followed by the value of the id attribute that is used on
 the element you are linking to.
 
+# Why to Pair Programming:
+
+    - Greater efficiency
+    - Engaged collaboration
+    - Learning from fellow students
+    - Social skills
+    - Job interview readiness
+    - Work environment readiness
+
+
 
 
 
