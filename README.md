@@ -13,7 +13,8 @@
 |2| [Class-02](https://bayan-alkhatib.github.io/code-201-reading-notes/class-02)  |
 |3| [Class-03](https://bayan-alkhatib.github.io/code-201-reading-notes/class-03)  |
 |4|  [Class-04](https://bayan-alkhatib.github.io/code-201-reading-notes/class-04)|
-|6|  | 
+|5|   [Class-05](https://bayan-alkhatib.github.io/code-201-reading-notes/class-05)|
+6 | |
 |7|    |
 |8|    |
 |9|    |
