@@ -1,16 +1,29 @@
 # HTML Images:
 * Images add Aesthetic aspect to the website.
-* before adding images to your website don't forget to check the copy rights.
-> * Images should...[Qouted from Html-Css book page 97] :
-
+* before adding images to your website don't      forget to check the copy rights.
+* Images should...[Qouted from Html-Css book page 97]:    
     * be relevant
     * Convey information
     * Convey the right mood
     * Be instantly recognisable
     * Fit the color palette
 
-best practice is to add a file for all website images.
+* best practice is to add a file for all website images.
 
+### Images Formats:
+    - JPEG:
+    > use :mages that contain a natural scene and Whenever there is many different colors in a picture.
+    - PNG:
+    > use: image that needs transparency or for images with text & objects with sharp ,large
+     areas of the same color.contrast edges 
+    - GIF:
+    > use: mages that contain animations, least favourable format.
+- compression: PNG is the best with compresion; has high quality but accupy more space in the desk. 
+- transparancy: Png also is the most favourable format when it comes to transparancy.
+- color: 
+    - JEPG; support 16 milion colors.
+    - Png; hass 2 modes: PNG8:supports 256 colors PNG24: supports 16 milion colors.
+    - GIF; supports 256 colors.
 ### img html element:
 ```<img >```
 attributes :
@@ -53,7 +66,7 @@ cakes .
 
 
 # CSS Color:
-we can define a color for html elements by "
+### we can define a color for html elements by:
 1. rgb values: colors in terms of how much red, green and blue are used to make it up.
 2. rgba values:colors in terms of how much red, green and blue are used to make it up, in addition to the opacity value (alpha).
 3. hex codes:six-digit codes that represent the amount of red, green and blue in a color.
@@ -76,7 +89,7 @@ we can define a color for html elements by "
  ```
 
 # CSS Text:
-css text properties:
+### css text properties:
 - font-Weight, font-style, stretch
 ![font-weight](img/font-weights.png)
 - font-family
