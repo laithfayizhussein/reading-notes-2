@@ -18,6 +18,8 @@
      areas of the same color.contrast edges 
     - GIF:
     > use: mages that contain animations, least favourable format.
+
+    
 - compression: PNG is the best with compresion; has high quality but accupy more space in the desk. 
 - transparancy: Png also is the most favourable format when it comes to transparancy.
 - color: 
@@ -29,6 +31,7 @@
 ### img html element:
 
 ```<img >```
+
 attributes :
 - src: scource of the image.
 - alt:desctibes the image if you can't see it.
