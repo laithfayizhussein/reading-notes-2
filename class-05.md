@@ -24,7 +24,10 @@
     - JEPG; support 16 milion colors.
     - Png; hass 2 modes: PNG8:supports 256 colors PNG24: supports 16 milion colors.
     - GIF; supports 256 colors.
+
+
 ### img html element:
+
 ```<img >```
 attributes :
 - src: scource of the image.
