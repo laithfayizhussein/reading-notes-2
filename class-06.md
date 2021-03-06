@@ -44,4 +44,4 @@ The model is called a DOM tree, and it is stored in the browsers' memory.
 > for a list of decument objects in HTML : [Document Object](https://www.w3schools.com/jsref/dom_obj_document.asp
 )
 
-
+> more information about OBjects : [Java Script book Chp 5](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01PDPSKG73/javascript_and_jquery_interactive_jon_du.pdf?c=1615069719-e562efb668b64923)
