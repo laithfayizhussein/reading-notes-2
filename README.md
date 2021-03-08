@@ -15,7 +15,7 @@
 |4|  [Class-04](https://bayan-alkhatib.github.io/code-201-reading-notes/class-04)|chp 4,15 html; 3 js |
 |5|   [Class-05](https://bayan-alkhatib.github.io/code-201-reading-notes/class-05)|5,11,12 html|
 6 | [Class-06](https://bayan-alkhatib.github.io/code-201-reading-notes/class-06)|3,5 js|
-|7|    |
+|7|  [Class-07](https://bayan-alkhatib.github.io/code-201-reading-notes/class-07)|6 html; 3  js|
 |8|    |
 |9|    |
 |10|   | 
