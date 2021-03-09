@@ -15,7 +15,7 @@ CSS Layout:
 - Fixed width layout designs do not change size as the user increases or decreases the size of their browser window. Measurements tend to be given in pixels.
 - Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages.
 
-- Layout Grids:Grids set consistent proportions and spaces between items which helps to create a professional looking design.
+- Layout Grids:Grids set consistent proportions and spaces between items which helps to create a professional looking design;eg: 960.GS
 
 - CSS Frameworks"
 providing the code for common tasks, such as creating layout grids, styling forms.
