@@ -1,4 +1,4 @@
-CSS Layout:
+# CSS Layout:
 - If one block-level element sits inside another block-level element, then the outer block is parent element and the insider one is child elemnet.
 - position in css:
     - normal flow: static
@@ -20,6 +20,7 @@ CSS Layout:
 - CSS Frameworks"
 providing the code for common tasks, such as creating layout grids, styling forms.
 
+## Advantages and disadvantages of using Framworks
 | Advantages of framwork|disadvantages of framworks|
 |--------|-----------|
 |avoid repeatation|They often require that you use class names in your HTML code|
