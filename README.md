@@ -18,7 +18,7 @@
 |7|  [Class-07](https://bayan-alkhatib.github.io/code-201-reading-notes/class-07)|6 html; 3  js|
 |8|  [Class-08](https://bayan-alkhatib.github.io/code-201-reading-notes/class-08)|html 15|
 |9| [Class-09](https://bayan-alkhatib.github.io/code-201-reading-notes/class-09)|html 7,14 js 6  |
-|10|   | 
+|10|  [Class-10](https://bayan-alkhatib.github.io/code-201-reading-notes/class-10) | 10 js| 
 |11|    |
 |12|    | 
 |13|    | 
