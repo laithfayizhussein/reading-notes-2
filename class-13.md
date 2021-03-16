@@ -21,7 +21,7 @@
 ## Tracking Changes:
 - the storage event is fired on the window object whenever setItem(), removeItem(), or clear() is called and actually changes something. 
 - The storage event is supported everywhere the localStorage object is supported.
-- ![Storage Event](./img/storage-event-object)
+- ![Storage Event](./img/storage-event-object.png)
 
 ## Html Sorage limitations:
 - 5 megabytes” is how much storage space each origin gets by default;f you’re storing a lot of integers or floats, the difference in representation can really add up.
