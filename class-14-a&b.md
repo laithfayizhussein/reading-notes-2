@@ -60,6 +60,7 @@ selector {
     ```
     4. 3D shadow:
     > syntax:
+
     ```
     .threed:hover {
     box-shadow:
@@ -69,6 +70,8 @@ selector {
     -webkit-transform: translateX (-3px);
     transform: translateX(-3px);
     }
+    ```
+    
 
 - Refrences for cool Animations examples:
     - [404 animation](https://codepen.io/kieranfivestars/pen/MYdQxX)
