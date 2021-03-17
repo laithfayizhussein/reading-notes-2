@@ -22,7 +22,7 @@
 |11|  [Class-11](https://bayan-alkhatib.github.io/code-201-reading-notes/class-11)|16, 19 html  |
 |12|   [Class-12](https://bayan-alkhatib.github.io/code-201-reading-notes/class-12)|articles | 
 |13|    [Class-13](https://bayan-alkhatib.github.io/code-201-reading-notes/class-13)|article | 
-|14| [Class-14](https://bayan-alkhatib.github.io/code-201-reading-notes/class-14)|articles  | 
+|14| [Class-14-a&b](https://bayan-alkhatib.github.io/code-201-reading-notes/class-14-a&b)|articles  | 
 |15|   |
 
 
