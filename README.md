@@ -30,7 +30,7 @@
 
 | # | Classes |Content|
 |---|---------|-------|
-
+|1| [Class-1](https://bayan-alkhatib.github.io/reading-notes/class-01)| Responsive Design anfd CSS Floats|
 
 
 
