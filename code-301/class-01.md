@@ -5,13 +5,14 @@
  - main components of Responsive Design:
     - flexible layouts: building the layout of a website capable of dynamically resizing to any width.
      > formela for determining the flixible layout : target ÷ context = result
+     - flexible media: make media scalable, the most use property is e max-width property.
     - media queries: 
         - provide the ability to specify different styles for individual browser and device circumstances.
-        - media query syntax :
-- ![media query syntax](./img/READ1.png)
         - Logical Operators used in Media Queries:and, only and not.
         - Media Features in Media Queries:Height & Width Media Features, Orientation Media Feature, Aspect Ratio Media Features, Resolution Media Feature, color, color-index feature.
-    -  flexible media: make media scalable, the most use property is e max-width property.
+        - media query syntax :
+![media query syntax](./img/READ1.png)
+   
 
 # CSS Floats:
 - CSS positioning property, allow the floated elements to remain a part of the flow of the web page.
