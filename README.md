@@ -33,6 +33,7 @@
 |1| [Class-01](https://bayan-alkhatib.github.io/reading-notes/code-301/class-01)| Responsive Design anfd CSS Floats|
 |2|[Class-02](https://bayan-alkhatib.github.io/reading-notes/code-301/class-02)|JQuery|
 |3|[Class-03](https://bayan-alkhatib.github.io/reading-notes/code-301/class-03)|flex-box,Javascript Templating|
+|4|[Class-04](https://bayan-alkhatib.github.io/reading-notes/code-301/class-04)|CSS Grid|
 
 
 
