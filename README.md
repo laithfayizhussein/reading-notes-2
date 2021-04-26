@@ -36,5 +36,5 @@
 |4|[Class-04](https://bayan-alkhatib.github.io/reading-notes/code-301/class-04)|CSS Grid|
 |5|[Class-05](https://bayan-alkhatib.github.io/reading-notes/code-301/class-05)|Huroku and Node JS|
 |6|[Class-06](https://bayan-alkhatib.github.io/reading-notes/code-301/class-06)|Node JS|
-
+|7|[Class-07](https://bayan-alkhatib.github.io/reading-notes/code-301/class-07)|API-RESET|
 
