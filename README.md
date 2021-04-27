@@ -37,4 +37,5 @@
 |5|[Class-05](https://bayan-alkhatib.github.io/reading-notes/code-301/class-05)|Huroku and Node JS|
 |6|[Class-06](https://bayan-alkhatib.github.io/reading-notes/code-301/class-06)|Node JS|
 |7|[Class-07](https://bayan-alkhatib.github.io/reading-notes/code-301/class-07)|API-RESET|
+|8|[Class-08](https://bayan-alkhatib.github.io/reading-notes/code-301/class-08)|SQL|
 
