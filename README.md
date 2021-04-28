@@ -38,4 +38,6 @@
 |6|[Class-06](https://bayan-alkhatib.github.io/reading-notes/code-301/class-06)|Node JS|
 |7|[Class-07](https://bayan-alkhatib.github.io/reading-notes/code-301/class-07)|API-RESET|
 |8|[Class-08](https://bayan-alkhatib.github.io/reading-notes/code-301/class-08)|SQL|
+|9|[Class-09](https://bayan-alkhatib.github.io/reading-notes/code-301/class-09)|Refactoring|
+
 
