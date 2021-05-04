@@ -42,3 +42,4 @@
 |10|[Class-10](https://bayan-alkhatib.github.io/reading-notes/code-301/class-10)|The Call Stack and Debugging|
 |11|[Class-11](https://bayan-alkhatib.github.io/reading-notes/code-301/class-11)|EJS|
 |12|[Class-12](https://bayan-alkhatib.github.io/reading-notes/code-301/class-12)|EJS Partials|
+|13|[Class-13](https://bayan-alkhatib.github.io/reading-notes/code-301/class-13)| Update/Delete|
