@@ -44,3 +44,4 @@
 |12|[Class-12](https://bayan-alkhatib.github.io/reading-notes/code-301/class-12)|EJS Partials|
 |13|[Class-13](https://bayan-alkhatib.github.io/reading-notes/code-301/class-13)| Update/Delete|
 |14|[Class-14](https://bayan-alkhatib.github.io/reading-notes/code-301/class-14)| DB Normalization|
+|15|[Class-15](https://bayan-alkhatib.github.io/reading-notes/code-301/class-15)| articles|
