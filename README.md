@@ -48,6 +48,6 @@
 
 ## Code 401 - Advanced Software Development
 
- # | Classes |Content|
+|# | Classes |Content|
 |---|---------|-------|
-|1| [Class-01](https://bayan-alkhatib.github.io/reading-notes/code-401/class-01)| Responsive Design anfd CSS Floats|
+|1 |[Class-01](https://bayan-alkhatib.github.io/reading-notes/code-401/class-01)| Pain and Suffering, big O notation|
