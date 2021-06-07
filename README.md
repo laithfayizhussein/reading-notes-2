@@ -52,3 +52,4 @@
 |---|---------|-------|
 |1 |[Class-01](https://bayan-alkhatib.github.io/reading-notes/code-401/class-01)| Pain and Suffering, big O notation|
 |2 |[Class-02](https://bayan-alkhatib.github.io/reading-notes/code-401/class-02)| Testing and Modules|
+|3 |[Class-03](https://bayan-alkhatib.github.io/reading-notes/code-401/class-03)| Reading and Writing Files in Python|
