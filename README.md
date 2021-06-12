@@ -55,5 +55,7 @@
 |3 |[Class-03](https://bayan-alkhatib.github.io/reading-notes/code-401/class-03)| Reading and Writing Files in Python|
 |4 |[Class-04](https://bayan-alkhatib.github.io/reading-notes/code-401/class-04)|Classes and Objects|
 |5 |[Class-05](https://bayan-alkhatib.github.io/reading-notes/code-401/class-05)|Linked Lists|
+|6 |[Class-06](https://bayan-alkhatib.github.io/reading-notes/code-401/class-06)| Random Module in Python|
+
 
 
