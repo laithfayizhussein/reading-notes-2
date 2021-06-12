@@ -26,8 +26,8 @@ import random
 myList = [2, 109, False, 10, "Lorem", 482, "Ipsum"]
 random.choice(myList)
 ```
-```
 - Shuffle : shuffles the elements in list in place, so they are in a random order.
+```
 Ex
 from random import shuffle
 x = [[i] for i in range(10)]
