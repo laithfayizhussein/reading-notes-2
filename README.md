@@ -57,5 +57,6 @@
 |5 |[Class-05](https://bayan-alkhatib.github.io/reading-notes/code-401/class-05)|Linked Lists|
 |6 |[Class-06](https://bayan-alkhatib.github.io/reading-notes/code-401/class-06)| Random Module in Python|
 |7 |[Class-07](https://bayan-alkhatib.github.io/reading-notes/code-401/class-07)| Python Scope|
+|8 |[Class-08](https://bayan-alkhatib.github.io/reading-notes/code-401/class-08)| List Comprehensions|
 
 
