@@ -58,5 +58,6 @@
 |6 |[Class-06](https://bayan-alkhatib.github.io/reading-notes/code-401/class-06)| Random Module in Python|
 |7 |[Class-07](https://bayan-alkhatib.github.io/reading-notes/code-401/class-07)| Python Scope|
 |8 |[Class-08](https://bayan-alkhatib.github.io/reading-notes/code-401/class-08)| List Comprehensions|
+|9 |[Class-09](https://bayan-alkhatib.github.io/reading-notes/code-401/class-09)| Dunder Methods|
 
 
