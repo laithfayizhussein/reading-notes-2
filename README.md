@@ -62,3 +62,5 @@
 |10 |[Class-10](https://bayan-alkhatib.github.io/reading-notes/code-401/class-10)| Stacks & Queues|
 |11 |[Class-11](https://bayan-alkhatib.github.io/reading-notes/code-401/class-11)| Data Analysis|
 |12 |[Class-12](https://bayan-alkhatib.github.io/reading-notes/code-401/class-12)| Pandas|
+|13 |[Class-12](https://bayan-alkhatib.github.io/reading-notes/code-401/class-13)|Linear Regression in Python|
+
