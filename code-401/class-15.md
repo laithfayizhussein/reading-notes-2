@@ -46,7 +46,11 @@
 - going through each level of the tree node-by-node. So, given our starting tree one more time
 
 ## pseudocode:
-- ALGORITHM breadthFirst(root) // INPUT <-- root node // OUTPUT <-- front node of queue to console Queue breadth <-- new Queue() breadth.enqueue(root) while breadth.peek() node front = breadth.dequeue() OUTPUT <-- front.value if front.left is not NULL breadth.enqueue(front.left) if front.right is not NULL breadth.enqueue(front.right)
+``` ALGORITHM breadthFirst(root) 
+ INPUT <-- root node 
+ OUTPUT <-- front node of queue to console Queue breadth <-- new Queue() breadth.enqueue(root) while breadth.peek() node front = breadth.dequeue() OUTPUT <-- front.value if front.left is not NULL breadth.enqueue(front.left) if front.right is not NULL breadth.enqueue(front.right)
+ ```
+ 
 
 ## K-ary Trees
 
