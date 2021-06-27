@@ -65,3 +65,4 @@
 |13 |[Class-13](https://bayan-alkhatib.github.io/reading-notes/code-401/class-13)|Linear Regression in Python|
 |14 |[Class-14](https://bayan-alkhatib.github.io/reading-notes/code-401/class-14)|Data Visualization|
 |15 |[Class-15](https://bayan-alkhatib.github.io/reading-notes/code-401/class-15)|Trees|
+|16 |[Class-16](https://bayan-alkhatib.github.io/reading-notes/code-401/class-16)|Machine Learning Intro|
