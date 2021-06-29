@@ -68,3 +68,4 @@
 |16 |[Class-16](https://bayan-alkhatib.github.io/reading-notes/code-401/class-16)|Machine Learning Intro|
 |17 |[Class-17](https://bayan-alkhatib.github.io/reading-notes/code-401/class-17)| Web Scraping|
 |18|[Class-18](https://bayan-alkhatib.github.io/reading-notes/code-401/class-18)| Cryptography|
+|19|[Class-19](https://bayan-alkhatib.github.io/reading-notes/code-401/class-19)| Automation|
