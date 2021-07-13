@@ -70,4 +70,5 @@
 |18|[Class-18](https://bayan-alkhatib.github.io/reading-notes/code-401/class-18)| Cryptography|
 |19|[Class-19](https://bayan-alkhatib.github.io/reading-notes/code-401/class-19)| Automation|
 |26|[Class-26](https://bayan-alkhatib.github.io/reading-notes/code-401/class-26)| Django|
-|26|[Class-27](https://bayan-alkhatib.github.io/reading-notes/code-401/class-27)| Django models|
+|27|[Class-27](https://bayan-alkhatib.github.io/reading-notes/code-401/class-27)| Django models|
+|28|[Class-28](https://bayan-alkhatib.github.io/reading-notes/code-401/class-28)| Django Forms|
