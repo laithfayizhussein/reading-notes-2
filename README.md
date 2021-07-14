@@ -73,3 +73,4 @@
 |27|[Class-27](https://bayan-alkhatib.github.io/reading-notes/code-401/class-27)| Django models|
 |28|[Class-28](https://bayan-alkhatib.github.io/reading-notes/code-401/class-28)| Django Forms|
 |29|[Class-29](https://bayan-alkhatib.github.io/reading-notes/code-401/class-29)| Django Custom User|
+|30|[Class-30](https://bayan-alkhatib.github.io/reading-notes/code-401/class-30)| Hash tables|
