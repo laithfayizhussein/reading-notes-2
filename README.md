@@ -76,3 +76,5 @@
 |30|[Class-30](https://bayan-alkhatib.github.io/reading-notes/code-401/class-30)| Hash tables|
 |31|[Class-31](https://bayan-alkhatib.github.io/reading-notes/code-401/class-31)| Django REST Framework & Docker|
 |32|[Class-32](https://bayan-alkhatib.github.io/reading-notes/code-401/class-32)|Permissions & Postgresql |
+|33|[Class-33](https://bayan-alkhatib.github.io/reading-notes/code-401/class-33)|Authentication & Production Server |
+|34|[Class-34](https://bayan-alkhatib.github.io/reading-notes/code-401/class-34)|API Deployment |
