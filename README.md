@@ -78,3 +78,5 @@
 |32|[Class-32](https://bayan-alkhatib.github.io/reading-notes/code-401/class-32)|Permissions & Postgresql |
 |33|[Class-33](https://bayan-alkhatib.github.io/reading-notes/code-401/class-33)|Authentication & Production Server |
 |34|[Class-34](https://bayan-alkhatib.github.io/reading-notes/code-401/class-34)|API Deployment |
+|35|[Class-35](https://bayan-alkhatib.github.io/reading-notes/code-401/class-35)|Graphs|
+|36|[Class-36](https://bayan-alkhatib.github.io/reading-notes/code-401/class-36)|DSA Review|
